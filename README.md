@@ -30,7 +30,7 @@ My Most Used Languages:
 
 </h4>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maktoobgar&layout=compact&title_color=009900&text_color=D3D3D3&bg_color=0,000000,003334" alt="Maktoobgar's Github Stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maktoobgar&layout=compact&hide=html,makefile,yacc,lex,&langs_count=6&title_color=009900&text_color=D3D3D3&bg_color=0,000000,003334" alt="Maktoobgar's Github Stats">
 
 </div>
 
