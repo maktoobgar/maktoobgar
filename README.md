@@ -20,7 +20,7 @@ My stats:
 
 </h4>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=maktoobgar&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=009900&icon_color=005500&text_color=D3D3D3&bg_color=0,000000,003334" alt="Maktoobgar's Github Stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=maktoobgar&count_private=true&show_icons=true&line_height=20&title_color=009900&icon_color=005500&text_color=D3D3D3&bg_color=0,000000,003334" alt="Maktoobgar's Github Stats">
 <br>
 <br>
 
