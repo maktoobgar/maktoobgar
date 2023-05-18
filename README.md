@@ -1,44 +1,24 @@
-<div align="center" width="50">
+# 💫 About Me:
+😎 I'm a programmer who has the audacity of calling himself a fullstack developer.<br>💰 I'm currently working on making a business.<br>👥 In need of having a hard work and always focused team.<br>⌨️ Mainly use next.js and golang in web development.
 
-<h1>
-Hi Fellow Developers!
-</h1>
 
-<br>
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/DoctorMK#6871) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mahmood-heidari-b757a31b5) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/14967240) 
 
-<h3>
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![GODOT](https://img.shields.io/badge/godot-3582bb.svg?style=for-the-badge&logo=godot-engine&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=maktoobgar&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=maktoobgar&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=maktoobgar&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-I'm Mahmood.\
-You just discovered my Github profile.\
-Have fun codding. 😊
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=maktoobgar&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
-</h3>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
-<h4>
+---
+[![](https://visitcount.itsvg.in/api?id=maktoobgar&icon=1&color=2)](https://visitcount.itsvg.in)
 
-My stats:
-
-</h4>
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=maktoobgar&count_private=true&show_icons=true&line_height=20&title_color=009900&icon_color=005500&text_color=D3D3D3&bg_color=0,000000,003334" alt="Maktoobgar's Github Stats">
-<br>
-<br>
-
-<h4>
-
-My Most Used Languages:
-
-</h4>
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maktoobgar&layout=compact&hide=html,makefile,yacc,lex,&langs_count=6&title_color=009900&text_color=D3D3D3&bg_color=0,000000,003334" alt="Maktoobgar's Github Stats">
-
-</div>
-
-<br>
-<hr>
-
-<p align="center">
-<a href="tg://user?id=466943813" target="_blank"><img src="https://img.shields.io/badge/telegram-%230077B5.svg?&style=flat-square&logo=telegram&logoColor=white" alt="telegram"></a>
-<a href="https://stackoverflow.com/users/14967240/mahmood" target="_blank"><img src="https://img.shields.io/badge/Stackoverflow-%230077B5.svg?&style=flat-square&logo=stackoverflow&logoColor=white&color=red" alt="stackoverflow"></a>
-<a><img src="https://img.shields.io/badge/Mahmoodh1378@gmail.com-%230077B5.svg?&style=flat-square&logo=gmail&logoColor=white&color=blueviolet" alt="gmail"></a>
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
